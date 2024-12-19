@@ -1,0 +1,7 @@
+C:\Users\PC\Documents\CODIGOS DE GAMA\Ejercicios Arreglados\Lesly_Prueba_Tecnica_02\bin\Debug\Lesly_Prueba_Tecnica_02.exe.config
+C:\Users\PC\Documents\CODIGOS DE GAMA\Ejercicios Arreglados\Lesly_Prueba_Tecnica_02\bin\Debug\Lesly_Prueba_Tecnica_02.exe
+C:\Users\PC\Documents\CODIGOS DE GAMA\Ejercicios Arreglados\Lesly_Prueba_Tecnica_02\bin\Debug\Lesly_Prueba_Tecnica_02.pdb
+C:\Users\PC\Documents\CODIGOS DE GAMA\Ejercicios Arreglados\Lesly_Prueba_Tecnica_02\obj\Debug\Lesly_Prueba_Tecnica_02.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\CODIGOS DE GAMA\Ejercicios Arreglados\Lesly_Prueba_Tecnica_02\obj\Debug\Lesly_Prueba_Tecnica_02.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\CODIGOS DE GAMA\Ejercicios Arreglados\Lesly_Prueba_Tecnica_02\obj\Debug\Lesly_Prueba_Tecnica_02.exe
+C:\Users\PC\Documents\CODIGOS DE GAMA\Ejercicios Arreglados\Lesly_Prueba_Tecnica_02\obj\Debug\Lesly_Prueba_Tecnica_02.pdb

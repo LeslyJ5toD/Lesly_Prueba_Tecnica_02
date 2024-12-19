@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Documentos\\CODIGOS DE GAMA\\Ejercicios en C Sharp\\Lesly_Prueba_Tecnica_02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D8F4314-5BA3-433A-A701-F7E325715069}|Lesly_Prueba_Tecnica_02.csproj|c:\\users\\user\\onedrive\\documentos\\codigos de gama\\ejercicios en c sharp\\lesly_prueba_tecnica_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D8F4314-5BA3-433A-A701-F7E325715069}|Lesly_Prueba_Tecnica_02.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D8F4314-5BA3-433A-A701-F7E325715069}|Lesly_Prueba_Tecnica_02.csproj|C:\\Users\\User\\OneDrive\\Documentos\\CODIGOS DE GAMA\\Ejercicios en C Sharp\\Lesly_Prueba_Tecnica_02\\registroacademico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D8F4314-5BA3-433A-A701-F7E325715069}|Lesly_Prueba_Tecnica_02.csproj|solutionrelative:registroacademico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D8F4314-5BA3-433A-A701-F7E325715069}|Lesly_Prueba_Tecnica_02.csproj|C:\\Users\\User\\OneDrive\\Documentos\\CODIGOS DE GAMA\\Ejercicios en C Sharp\\Lesly_Prueba_Tecnica_02\\asignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D8F4314-5BA3-433A-A701-F7E325715069}|Lesly_Prueba_Tecnica_02.csproj|solutionrelative:asignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D8F4314-5BA3-433A-A701-F7E325715069}|Lesly_Prueba_Tecnica_02.csproj|C:\\Users\\User\\OneDrive\\Documentos\\CODIGOS DE GAMA\\Ejercicios en C Sharp\\Lesly_Prueba_Tecnica_02\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D8F4314-5BA3-433A-A701-F7E325715069}|Lesly_Prueba_Tecnica_02.csproj|solutionrelative:estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistroAcademico.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\CODIGOS DE GAMA\\Ejercicios en C Sharp\\Lesly_Prueba_Tecnica_02\\RegistroAcademico.cs",
+              "RelativeDocumentMoniker": "RegistroAcademico.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\CODIGOS DE GAMA\\Ejercicios en C Sharp\\Lesly_Prueba_Tecnica_02\\RegistroAcademico.cs",
+              "RelativeToolTip": "RegistroAcademico.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T00:26:08.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Asignatura.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\CODIGOS DE GAMA\\Ejercicios en C Sharp\\Lesly_Prueba_Tecnica_02\\Asignatura.cs",
+              "RelativeDocumentMoniker": "Asignatura.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\CODIGOS DE GAMA\\Ejercicios en C Sharp\\Lesly_Prueba_Tecnica_02\\Asignatura.cs",
+              "RelativeToolTip": "Asignatura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T00:26:08.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\CODIGOS DE GAMA\\Ejercicios en C Sharp\\Lesly_Prueba_Tecnica_02\\Estudiante.cs",
+              "RelativeDocumentMoniker": "Estudiante.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\CODIGOS DE GAMA\\Ejercicios en C Sharp\\Lesly_Prueba_Tecnica_02\\Estudiante.cs",
+              "RelativeToolTip": "Estudiante.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T00:26:08.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\CODIGOS DE GAMA\\Ejercicios en C Sharp\\Lesly_Prueba_Tecnica_02\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\CODIGOS DE GAMA\\Ejercicios en C Sharp\\Lesly_Prueba_Tecnica_02\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T00:26:08.347Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
